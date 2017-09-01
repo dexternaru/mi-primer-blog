@@ -25,7 +25,9 @@ SECRET_KEY = 'i@#^pt19m4@8^!dvndu-v5&-+&a3_m7f%-42&_vg1nopqeuh#)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    dexternaru.pythonanywhere.com
+]
 
 
 # Application definition
