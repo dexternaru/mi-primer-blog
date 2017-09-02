@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'dexternaru.pythonanywhere.com'
+    'http://dexternaru.pythonanywhere.com/'
 ]
 
 
