@@ -26,8 +26,8 @@ SECRET_KEY = 'i@#^pt19m4@8^!dvndu-v5&-+&a3_m7f%-42&_vg1nopqeuh#)'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'dexternaru.pythonanywhere.com'
-    'http://dexternaru.pythonanywhere.com/'
+    '127.0.0.1',
+    'dexternaru.pythonanywhere.com',
 ]
 
 
